@@ -15,4 +15,8 @@ the content of a file.
 
 ### SHA1 Algo 
 > It's another algo that converts the file content to a string. 
-  
+
+### Use 
+Run the app inside pipenv shell. Then select the two files regex.py
+and test.txt. The contents are different so after clicking the submit button 
+the app will show the results.    
